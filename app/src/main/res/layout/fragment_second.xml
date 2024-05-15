@@ -43,7 +43,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:text="With a history that spans more than two decades in the education sector, Multimedia University has undergone countless changes, yet has always maintained its vision and mission to achieve the highest standards of performance in teaching and in the services we offer students, staff  and the community."
+                android:text="@string/about_2"
                 android:textSize="18sp" />
 
         </LinearLayout>
